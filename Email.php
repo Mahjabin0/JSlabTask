@@ -24,7 +24,7 @@
 </script>
 <form onsubmit="return myFun()">
 Email:<br>
-<input type="text" id="User_Name" value=""> example@gmail.com
+<input type="text" id="User_Name" value="">
 <span id="Message"></span><br>
 <input type="submit"  value="Submit"></input>
 </form>
